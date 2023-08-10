@@ -4,7 +4,7 @@ description: "Built with github pages, jekyll & delight"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
-date_format: "%d %B, %Y"
+#date_format: "%d %B, %Y"
 
 # Layout
 
